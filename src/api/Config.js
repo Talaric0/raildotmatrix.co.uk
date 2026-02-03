@@ -2,5 +2,5 @@
 
 export default {
   // apiKey: ApiKey,
-  endpoint: `https://national-rail-api.davwheat.dev`,
+  endpoint: `http://192.168.1.161:8081`,
 }

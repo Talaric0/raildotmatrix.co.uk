@@ -3,11 +3,6 @@
   "private": true,
   "description": "Generate a realistic dot matrix display for any UK railway station",
   "version": "0.1.0",
-  "author": {
-    "name": "David Wheatley",
-    "email": "hi@davwheat.dev",
-    "url": "https://davwheat.dev/"
-  },
   "dependencies": {
     "@emotion/core": "^11.0.0",
     "@emotion/styled": "^11.14.1",
